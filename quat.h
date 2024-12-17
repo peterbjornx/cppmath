@@ -1,6 +1,6 @@
 /*
 Written by Peter Bosch
- under BSD license at github.com/cppmath
+ under BSD license at github.com/peterbjornx/cppmath
  */
 #ifndef CPPMATH_QUAT_H
 #define CPPMATH_QUAT_H

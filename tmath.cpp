@@ -1,6 +1,6 @@
 /*
 Written by Peter Bosch
- under BSD license at github.com/cppmath
+ under BSD license at github.com/peterbjornx/cppmath
  */
 
 #include <math.h>
